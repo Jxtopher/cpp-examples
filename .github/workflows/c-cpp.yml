@@ -1,0 +1,19 @@
+name: C/C++ CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: cmake build
+      run: cmake -DCMAKE_BUILD_TYPE=Debug -Bbuild -H.
+    - name: cmake make
+      run: cmake --build build/ --target all -j2
