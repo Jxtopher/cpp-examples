@@ -1,4 +1,4 @@
-![Main](https://github.com/jxtopher/cpp-examples/actions/workflows/main.yml/badge.svg)
+![Main](https://github.com/jxtopher/cpp-examples/actions/workflows/c-cpp.yml/badge.svg)
 
 -----
 # CPP Example 
