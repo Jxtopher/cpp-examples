@@ -1,3 +1,6 @@
+![Main](https://github.com/jxtopher/cpp-examples/actions/workflows/main.yml/badge.svg)
+
+-----
 # CPP Example 
 
 
