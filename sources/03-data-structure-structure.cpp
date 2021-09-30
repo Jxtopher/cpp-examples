@@ -1,7 +1,7 @@
 #include <cstdlib>
 #include <iostream>
 
-class Point {
+struct Point {
 public:
   double m_x;
   double m_y;
