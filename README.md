@@ -11,4 +11,6 @@
 - The C++ Conference: https://cppcon.org/ and https://github.com/cppcon
 - Cmak: https://cliutils.gitlab.io/modern-cmake/
 - bigs list of frameworks: https://github.com/fffaraz/awesome-cpp#image-processing
--  Standard C++ Foundation: https://isocpp.org
+- Standard C++ Foundation: https://isocpp.org
+- learncpp: https://www.learncpp.com
+- MCQs: https://rank.sanfoundry.com/cplusplus-programming-tests/
